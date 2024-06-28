@@ -2,5 +2,4 @@
 import os
 import witux
 witux.loging()
-os.system("rm -rf Wifi-H4ck")
 os.system("xdg-open https://t.me/echo_default")
